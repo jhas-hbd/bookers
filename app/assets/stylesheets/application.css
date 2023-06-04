@@ -19,3 +19,38 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 33px;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+h1 {
+  font-size: 26px;
+  margin: 17px 0;
+}
+
+p, .start {
+  font-size: 13px;
+  margin: 33px;
+}
+
+.link, .start, .color {
+  color: #666666;
+}
+
+.text, .edit {
+  margin-bottom: 10px;
+}
+
+th {
+  padding-bottom: 5px;
+}
+
+td {
+  padding-bottom: 7px;
+}
+
+h2 {
+  margin: 16px 0;
+}
